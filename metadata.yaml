@@ -1,0 +1,36 @@
+_repo: Killarney_45144
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Walker, Francis Sylvester
+    aliases:
+    - Walker, F. S. (Francis Sylvester)
+    - Walker, Fs. (Francis)
+    - Walker, Francis S.
+    birthdate: 1848
+    deathdate: 1916
+    gutenberg_agent_id: '42330'
+    url: http://www.gutenberg.org/2009/agents/42330
+covers:
+- cover_type: archival
+  image_path: 45144-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gorges, Mary
+    gutenberg_agent_id: '43121'
+    url: http://www.gutenberg.org/2009/agents/43121
+description: ''
+gutenberg_issued: '2014-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beautiful Ireland.
+subjects:
+- !lcsh 'Killarney, Lakes of (Ireland)'
+- !lcc 'DA'
+title: Killarney
+url: http://www.gutenberg.org/ebooks/45144
